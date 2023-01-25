@@ -1,2 +1,2 @@
 # google
-nomorefilter.github.io
+https://nomorefilter.github.io/google
